@@ -1,0 +1,171 @@
+================================================================================
+M.M.M. INJECTION // PROJECT: SINEDR0M
+DOSYA: 0.logline-artistik-stil.txt
+TÜR: KONSEPT TASARIM & ÇEKİM SENARYOSU
+DURUM: DRAFT_V1 // ENJEKSİYON BAŞLATILDI
+================================================================================
+
+0. LOGLINE
+--------------------------------------------------------------------------------
+Hafif çakırkeyif, kalp kırıklığına bağışıklık kazanmış bir adam; Rasimpaşa'nın arka sokaklarında, öz-yıkım ile gerçek özlem arasında sendeliyor. Onu canlı canlı yakan kadına ulaşmaya çalışırken, tüm dünya 9/8'lik bir meyhane groovuna dönüşüyor: Masalar, kediler, neonlar, Moog, darbuka ve C64 pikselleri... Hepsi tek bir ritimde atıyor ve o yalvarıyor: "Bir anda… anla beni."
+
+1. GÖRSEL DİL & GENEL ATMOSFER (VISUAL LANGUAGE)
+--------------------------------------------------------------------------------
+>> ESTETİK: "jûRûX Comix" / Graphic-Novel Noir
+   - Çizgiler: Kalın, belirgin, mürekkep tadında konturlar.
+   - Doku: Hafif kirli, "grainy", analog film ile dijital bozulmanın (datamosh) evliliği.
+   - Renk Paleti:
+     * İÇ MEKAN (Meyhane): Sıcak kehribar (amber), hasta yeşiller, sigara dumanı sarısı.
+     * DIŞ MEKAN (Sokak): Neon siyan, elektrik moru, derin gece mavisi.
+     * GLITCH KATMANI: C64 sesleri girdiğinde patlayan 8-bit renkler (saf magenta, saf yeşil).
+
+>> KAMERA DİLİ: "Sarhoş Gözü / Drunk Cam"
+   - Hareket: Akışkan, el kamerası hissi (handheld). İzleyici, jûrûX'un arkasından sendeleyerek yürüyen sarhoş bir arkadaşı gibi.
+   - Odak: Bazen kayan, bazen netleşip bulanıklaşan "autofocus hunting" efekti.
+
+>> FİZİK MOTORU: "9/8 Yerçekimi"
+   - Dünyadaki her hareket 2+2+2+3 ritmine tabidir.
+   - Duvardaki çatlaklar, lamba salınımları, sigara dumanının yükselişi... Hepsi bu aksak ritimle hareket eder.
+
+>> VFX & C64 ENTEGRASYONU:
+   - Nesnelerden kopan piksel parçacıkları.
+   - İnsanların anlık olarak düşük çözünürlüklü (low-res) silüetlere dönüşmesi.
+   - Altyazıların (lyrics) bir kareliğine "glitch"lenip bozulması.
+
+2. KARAKTER TANIMLARI (CHARACTER PROFILES)
+--------------------------------------------------------------------------------
+[A] jûrûX (THE PROTAGONIST)
+   - Görünüm: Hafif dağılmış gömlek (yarı açık), kanlanmış ama "cin" gibi parlayan gözler. Kulağının arkasında sigara çukuru (yılların izi). Elinde bira şişesi (aksesuar değil, uzuv).
+   - Vibe: Melankolik ama kendine gülebilen. Arabesk bir acıyı, cyberpunk bir umursamazlıkla taşıyor.
+   - Rolü: Hikayenin anlatıcısı ve kurbanı. Zamanı ve mekanı bükebilen ama kendi kalbini tamir edemeyen bir şaman.
+
+[B] KADIN (THE GLITCH MUSE)
+   - Görünüm: Asla tam net değil. Bazen bir anı, bazen bir hologram, bazen sadece bir silüet.
+   - Kostüm: "Mini mini" ama pornografik değil; oyuncu, tehlikeli, yakalanamaz. (Palto -> Etek -> Hoodie morphing).
+   - Vibe: Hem şefkatli hem alaycı. jûrûX'un zihnindeki "ideal" ve "işkenceci" aynı anda.
+   - Rolü: Hedef. Ulaşılmaya çalışılan "O". Sinyaldeki parazit.
+
+[C] THE BAND (SONIC ARCHITECTS)
+   - Elektro Bağlama: Arkaya yaslanmış, sap kısmında sigara sıkıştırılmış. Cool, stoik.
+   - Darbuka/Tef Ekibi: Plastik kasalar üzerinde tünemiş, ritmin bekçileri.
+   - Moog: Bir kasanın üzerinde duran, antik, ışıkları yanıp sönen bir sunak taşı.
+
+3. BÖLÜM BÖLÜM ÇEKİM PLANI (SHOOTING SCRIPT)
+--------------------------------------------------------------------------------
+
+[00:00 - INTRO] "Şehir 9/8 Nefes Alıyor"
+---------------------------------------------
+- GÖRSEL: Siyah ekran.
+- SES: Moog girer.
+- VFX: Ekranda beliren yeşil, parlayan bir dalga formu (waveform). Kalp atışı gibi.
+- GEÇİŞ: Waveform, Kadıköy silüetine dönüşür (morph).
+- AKSİYON: Davul vuruşuyla binaların ışıkları 9/8 ritminde yanıp söner. Bir kedi balkondan balkona tam +3 vuruşunda atlar.
+- KAMERA: Pan Down -> Dar bir sokağa iniş.
+- DETAY: Yanıp sönen tabela: "sinedr0m" (küçük, alt köşe).
+- SON: Kapı son vuruşta açılır.
+
+[VERSE 1] "Gezinirsin / Giyinirsin"
+---------------------------------------------
+- MEKAN: Meyhane İçi (Klostrofobik & Sıcak).
+- KARAKTER: jûrûX tanıtımı. Dağınık, karizmatik.
+- KURGU (Split-Screen):
+  * Sol: Gündüz Kadıköy sokakları (Anı).
+  * Sağ: Gece Meyhane (Şimdi).
+- EFEKT "Gezinirsin": Arka plan 2D platform oyunu gibi soldan sağa akar (scroll). Kadın arkada loop'a girer.
+- EFEKT "Yürekleri eritirsin": Meyhanedeki adamların göğüs kafesleri parlar, buharlaşır. 8-bit kalp ikonları havaya yükselip patlar.
+- CUT: "Çalacağım kapını bir anda" -> Başka bir kapıya sert kesme (Kadının evi). Buzlu cam arkasında silüet.
+
+[INSTRUMENTAL BREAK 1] "Masalar Enstrüman Oluyor"
+---------------------------------------------
+- KURGU: Hızlı kesmeler (Rapid fire editing).
+- AKSİYON:
+  * Kül tablaları kendi kendine ritim tutar.
+  * Rakı bardakları titreyerek masada dairesel izler bırakır (cymatics).
+  * Tepe lambası metronom gibi sallanır.
+- HAREKET: jûrûX ayağa kalkar, paltosunu kapar. Meyhaneden çıkış.
+
+[VERSE 2] "Madam Madam..."
+---------------------------------------------
+- MEKAN: Rasimpaşa Sokakları (Gece & Neon).
+- KONSEPT: Şehir = Lyric Video.
+- VFX "Acı tatlı gülüşürsün": Kadının kahkahası sokakta yankılanır (görsel echo).
+- VFX "Madam madam": Kadın balkonda belirir, tek kaşını kaldırır, neona dönüşüp kaybolur.
+- ARKA PLAN: Duvarlardaki eski film afişleri (70'ler erotik/arabesk) wah-wah gitarla canlanır, dans eder.
+- TV VİTRİNİ: Ekranlarda jûrûX'un gençliği; hep sarhoş, hep şarkı söylüyor.
+- HAREKET: "Dayanacağım kapına" -> İleri işaret eder. Kapı (hedef) daha yakındır.
+
+[CHORUS 1] "Bir Anda İki Gözüm..."
+---------------------------------------------
+- KAMERA: jûrûX'un etrafında 360 derece döner (Orbit shot), 9/8 ritminde.
+- VFX: Binalar yukarı doğru uzar (stretch), sonra bükülüp dev bir plak formuna dönüşür. Plak etiketinde Rasimpaşa haritası.
+- GLITCH: Her "Bir anda" sözünde evren bir kare atlar (frame skip). Sokak lambaları senkronize patlar.
+- HAYAL: "Aç kapıyı, kur sofrayı" -> Kadının evinin içine cross-cut. Hayali sofra kurulur (tabaklar, ekmek, zeytin belirir).
+
+[CHORUS 2] "Canım Cicim... + Kahkaha"
+---------------------------------------------
+- ATMOSFER: Daha delice (Unhinged).
+- DETAY: jûrûX'un alnındaki ter neonları yansıtır.
+- MONTAJ "Hazırla sofrayı":
+  * Rakı şişesi kendi kendine açılır.
+  * Bira kutusu yuvarlanıp dik durur.
+  * Sigara kendiliğinden yanar.
+- SES/VFX "Hadi canım": Duvardaki graffiti dudak senkronize olur (lip-sync) VEYA vitrindeki yansıma bir anlığına kadına dönüşüp cevap verir.
+- TEPKİ: jûrûX gülümser, onayı almış gibidir.
+
+[INSTRUMENTAL BREAK 2] "Sokak Groovu Genişliyor"
+---------------------------------------------
+- DURUM: Kapıya çok yakın.
+- SPLIT SCREEN:
+  * Sol: Grup meyhanede çalıyor (shredding).
+  * Sağ: jûrûX sokakta yürüyor.
+- VFX: Elektro bağlama melodileri gökyüzünde parlayan çizgiler olarak binaları sarar.
+- C64 ARPEJLERİ:
+  * Tabelalardan piksel kareler dökülür.
+  * Kedinin kuyruğu piksel merdivene dönüşür.
+  * Trafik ışıkları CRT televizyon gibi titrer.
+- FİNAL: Binaya varır. Kapıda durur. Tereddüt.
+
+[OUTRO - PASS 1] "Erkek: Bir Anla..."
+---------------------------------------------
+- MOD: Daha yavaş, daha yakın (Intimate).
+- AKSİYON: Kapı pervazına yaslanmış, mırıldanıyor.
+- FLASHBACKS (Her "Bir anla" için):
+  1. Kadın sigarasını yakıyor.
+  2. Kadın ritim dışı dans edip kıkırdıyor.
+  3. Kadın ciddi bakıp yavaşça gülümsüyor.
+- DETAY: "Elimde biranla" -> Elindeki şişenin etiketi "bir anla" yazısına glitchlenir.
+
+[OUTRO - PASS 2] "Kadın Cevap Veriyor"
+---------------------------------------------
+- MEKAN: Kadının Evi (İçerisi).
+- IŞIK: Sadece TV ışığı (Mavi/Gri).
+- KARAKTER: Kadın yerde oturuyor. Salaş tişört, çıplak ayak, elinde bira. Yalnız.
+- SPLIT SCREEN (KAPI):
+  * Sol: jûrûX dışarıda.
+  * Sağ: Kadın içeride.
+  * Ortak: Nefesleri aynı hayali cama buğu yapıyor.
+- AKSİYON: Kadın hüzünlüce gülümser, omuz silker, birasından bir yudum alır. Kapıyı açmaz.
+
+[INSTRUMENTAL BREAK 3] "Ecstatic 9/8 Final"
+---------------------------------------------
+- KONSEPT: Sinestezik Patlama.
+- YAYLILAR: Çamaşır ipleri nota çizgilerine, mandallar notalara dönüşür.
+- KLARNET: Renkli duman olarak sokağa yayılır.
+- PERKÜSYON: Rögar kapakları zıplar, dubalar titrer.
+- C64: Kaldırımdan yükselen pikseller jûrûX'un başında bir taç oluşturur.
+- DANS: jûrûX şişeyi yere bırakır (kırılmaz, zaman yavaşlar). Halay/Zeybek karışımı ağır bir dansa başlar. Komşular pencerelerden ritim tutar.
+
+[FINAL HOOK] "Birleşme & Yok Oluş"
+---------------------------------------------
+- KURGU: Katmanlar birleşir (Overlay). Dışarısı, içerisi, meyhane iç içe geçer.
+- KAMERA: Zoom Out (Geriye çekilme). Bina -> Sokak -> Mahalle -> Kuşbakışı Rasimpaşa (yanıp sönen pencereler).
+- SON VURUŞ:
+  * Her şey donar.
+  * Tek bir piksele çökme (Collapse).
+  * Piksel bir kez yanıp söner ("Bip").
+  * SİYAH.
+- YAZI: Çok silik, beyaz bir çizgi: "BİR ANDA."
+
+================================================================================
+M.M.M. INJECTION // END OF FILE
+================================================================================

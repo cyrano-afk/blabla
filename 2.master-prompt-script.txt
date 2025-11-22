@@ -1,0 +1,181 @@
+================================================================================
+M.M.M. INJECTION // PROJECT: SINEDR0M
+FILE: 2.master-prompt-script.txt
+TYPE: AI VIDEO GENERATION MASTER SCRIPT
+STYLE: SIVASLI GANGSTERS / PURPLE NOIR / B-MOVIE / ZINE PUNK / 9-8 GRAVITY
+STATUS: READY_FOR_PROMPTING
+================================================================================
+
+GLOBAL STYLE PROMPT (Use with every generation):
+> Style: Graphic novel aesthetic, thick ink lines, dirty textures, grainy film look mixed with digital datamoshing.
+> Colors: Toxic purple, neon cyan, blood red, deep noir shadows. NO PINK.
+> Camera: Handheld "drunk cam", autofocus hunting, disorienting angles.
+> Atmosphere: Turkish arabesk noir meets cyberpunk glitch. 1975 B-movie vibe.
+
+--------------------------------------------------------------------------------
+[00:00 - INTRO] "City Breathing in 9/8"
+--------------------------------------------------------------------------------
+
+[SCENE 01]
+[length: 4s]
+PROMPT: A glowing green oscilloscope waveform on a black screen, pulsating like a heartbeat. The waveform slowly morphs into the jagged skyline of Istanbul at night. 8-bit glitch effects.
+
+[SCENE 02]
+[length: 4s]
+PROMPT: Low angle shot of a narrow alley in Kadikoy at night. A flickering neon sign reads "sinedr0m" in red and purple. Windows on buildings flash on and off in a complex 9/8 rhythm. A cat jumps between balconies in slow motion.
+
+--------------------------------------------------------------------------------
+[VERSE 1] "Gezinirsin / Giyinirsin"
+--------------------------------------------------------------------------------
+
+[SCENE 03]
+[length: 5s]
+PROMPT: Interior of a cramped, smoky tavern (meyhane). Warm amber and sickly green lighting. jûrûX, a disheveled man with bloodshot eyes and a cigarette behind his ear, holds a beer bottle. He looks melancholic but charismatic. Thick comic book outlines.
+
+[SCENE 04]
+[length: 4s]
+PROMPT: Split screen effect. Left side: Daytime street in Istanbul, grainy film look. Right side: Dark tavern interior. A mysterious woman walks through the street on the left, her outfit morphing from a coat to a mini skirt to a hoodie in a glitchy loop.
+
+[SCENE 05]
+[length: 4s]
+PROMPT: Close up on men sitting at a tavern table. Their chests are glowing purple. As they drink raki, their hearts literally melt into vapor and float upwards as 8-bit pixel hearts. Surreal animation.
+
+[SCENE 06]
+[length: 3s]
+PROMPT: Hard cut to a frosted glass door in a dark apartment hallway. A female silhouette moves behind the glass. Purple noir lighting. Mystery thriller vibe.
+
+--------------------------------------------------------------------------------
+[INSTRUMENTAL BREAK 1] "Tables as Instruments"
+--------------------------------------------------------------------------------
+
+[SCENE 07]
+[length: 2s]
+PROMPT: Close up of an ashtray on a table vibrating and tapping rhythmically by itself. Cigarette smoke forms geometric shapes.
+
+[SCENE 08]
+[length: 2s]
+PROMPT: Top down view of raki glasses on a table. The liquid inside vibrates, creating circular cymatic patterns in sync with a beat.
+
+[SCENE 09]
+[length: 3s]
+PROMPT: jûrûX stands up abruptly in the tavern, grabbing his worn leather coat. The overhead lamp swings violently like a metronome.
+
+--------------------------------------------------------------------------------
+[VERSE 2] "Madam Madam..."
+--------------------------------------------------------------------------------
+
+[SCENE 10]
+[length: 5s]
+PROMPT: jûrûX walking through the streets of Rasimpasa at night. Neon signs reflect on his sweaty face. The walls of the buildings are covered in old 70s movie posters that are slightly animated.
+
+[SCENE 11]
+[length: 4s]
+PROMPT: A woman leaning on a balcony at night, bathed in purple neon light. She raises an eyebrow mockingly, then dissolves into digital noise and pixels.
+
+[SCENE 12]
+[length: 4s]
+PROMPT: jûrûX passes a shop window filled with old CRT televisions. All screens show him at different ages, singing and drinking. Glitch art aesthetic.
+
+--------------------------------------------------------------------------------
+[CHORUS 1] "Bir Anda İki Gözüm..."
+--------------------------------------------------------------------------------
+
+[SCENE 13]
+[length: 5s]
+PROMPT: Orbit shot circling around jûrûX as he sings passionately in the street. The buildings behind him stretch upwards and twist into a spiral, resembling a spinning vinyl record.
+
+[SCENE 14]
+[length: 3s]
+PROMPT: Interior of an apartment. A table appears out of thin air with a glitch effect. Plates, bread, and olives materialize on the table one by one.
+
+--------------------------------------------------------------------------------
+[CHORUS 2] "Canım Cicim... + Kahkaha"
+--------------------------------------------------------------------------------
+
+[SCENE 15]
+[length: 4s]
+PROMPT: Extreme close up of jûrûX's face. Sweat beads on his forehead reflect cyan and magenta lights. His expression is unhinged and desperate.
+
+[SCENE 16]
+[length: 3s]
+PROMPT: A raki bottle on a table uncorks itself. A beer can rolls across a counter and stands up on its own. Stop motion animation style.
+
+[SCENE 17]
+[length: 3s]
+PROMPT: A graffiti of a mouth on a brick wall animates and lip-syncs a laugh. Urban street art style.
+
+--------------------------------------------------------------------------------
+[INSTRUMENTAL BREAK 2] "Street Groove Expands"
+--------------------------------------------------------------------------------
+
+[SCENE 18]
+[length: 5s]
+PROMPT: Split screen. Left: A band playing traditional instruments (baglama, darbuka) in a tavern. Right: jûrûX walking in the street. Glowing musical notes wrap around the buildings like neon wires.
+
+[SCENE 19]
+[length: 4s]
+PROMPT: C64 pixel art style. Small pixel squares fall from neon signs like rain. A street cat's tail turns into a low-res pixelated staircase.
+
+--------------------------------------------------------------------------------
+[OUTRO - PASS 1] "Male: Bir Anla... (Zehir & Zindan)"
+--------------------------------------------------------------------------------
+
+[SCENE 20]
+[length: 5s]
+PROMPT: Low angle shot of jûrûX standing in front of a door. He looks exhausted. Deep purple lighting. He holds a beer bottle like a weapon. His eyes are bruised red and purple.
+
+[SCENE 21]
+[length: 3s]
+PROMPT: Close up of the beer bottle label. It glitches from "EFES" to "ZINDAN" (Dungeon) in a punk zine font.
+
+[SCENE 22]
+[length: 4s]
+PROMPT: Paper tear transition effect. A black and white photocopy image of a woman shouting appears on screen, then burns away to reveal the word "ZEHİR" (Poison).
+
+--------------------------------------------------------------------------------
+[OUTRO - PASS 2] "Female Answer (Purple Haze)"
+--------------------------------------------------------------------------------
+
+[SCENE 23]
+[length: 5s]
+PROMPT: Interior of a messy room bathed in heavy purple light. A woman sits on an old armchair, legs stretched out, wearing an oversized leather jacket. Her face is in shadow, only her lips visible. B-movie femme fatale vibe.
+
+[SCENE 24]
+[length: 5s]
+PROMPT: Vertical split screen with a torn paper edge. Left: jûrûX outside in a dark alley. Above him, a neon sign reads "SAKİ 88". In the background, a currency exchange shop ("DÖVİZ") with signs showing Dollar and Euro rates and a flickering CRT monitor. Grainy analog film look. Right: The woman inside, pixelated and digital (C64 style). She looks directly at the camera.
+
+[SCENE 25]
+[length: 3s]
+PROMPT: The woman winks at the camera. The entire screen fills with purple static noise and digital interference.
+
+--------------------------------------------------------------------------------
+[INSTRUMENTAL BREAK 3] "B-Movie Climax"
+--------------------------------------------------------------------------------
+
+[SCENE 26]
+[length: 4s]
+PROMPT: Fast montage. Street cats with glowing laser eyes hissing. Graffiti on walls moving and merging. A Moog synthesizer opening up like a coffin, releasing purple smoke.
+
+[SCENE 27]
+[length: 5s]
+PROMPT: jûrûX performing a heavy, aggressive traditional dance (Zeybek) alone in the alley. Slow motion. Every time he stomps the ground, purple shockwaves ripple out.
+
+--------------------------------------------------------------------------------
+[FINAL HOOK] "Birleşme & Glitch Death"
+--------------------------------------------------------------------------------
+
+[SCENE 28]
+[length: 4s]
+PROMPT: Double exposure of jûrûX's bruised face and the woman's face merging together. Psychedelic and disturbing.
+
+[SCENE 29]
+[length: 3s]
+PROMPT: The video glitches like a damaged VHS tape. Text appears in a ransom note style: "B İ R  A N D A".
+
+[SCENE 30]
+[length: 2s]
+PROMPT: Screen cuts to black. A single blinking white cursor in the center.
+
+================================================================================
+M.M.M. INJECTION // END OF SCRIPT
+================================================================================
